@@ -1,0 +1,18 @@
+If you see this notepad
+It means that you are a curious human
+Thank you for that...
+Now.. This not shows you how to import the JSON library into the project.
+This library is important for the class Locator_Sec77_G5 in the project file, since it helps with finding the coordinates of the incident's location.
+
+Using Eclipse
+Steps:
+1. Right click on the project folder
+2. Navigate to "Build Path"
+3. Navigate to "Configure Build Path"
+4. A window of Java Build Path will pop-up
+5. Look at the tabs then click on "Libraries"
+6. In the square you will see "classpath", click on it
+7. On the right side click "Add External JARs..."
+8. Finally, choose the .json file that is given to you inside the "JSON Library" folder
+
+THANK YOU!
